@@ -5,7 +5,7 @@ DevSchema is a responsive client-side schema testing and data validation laborat
 
 ## Preview
 ----------------------------------------------------------------------------------------------
-
+!
 ##  Architectural Features Explored
 *  **Asynchronous Lexical Handlers:** Embeds runtime processing pipelines inside raw string fields to evaluate `JSON.parse` blocks without interrupting core operational render speeds.
 *  **Defensive Schema Boundaries:** Implements multi-tier structural evaluation constraints matching inputs against primitive types, array boundaries, and parameter parameters live.
