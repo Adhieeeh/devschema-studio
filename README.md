@@ -3,7 +3,7 @@
 
 DevSchema is a responsive client-side schema testing and data validation laboratory built with React. It tracks schema constraints against dynamic data payload dictionaries, using active JavaScript lexical parsing try/catch compilation models to intercept syntactical anomalies and pipe error streams down onto isolated trace display grids.
 
-## 
+## Preview
 ##  Architectural Features Explored
 *  **Asynchronous Lexical Handlers:** Embeds runtime processing pipelines inside raw string fields to evaluate `JSON.parse` blocks without interrupting core operational render speeds.
 *  **Defensive Schema Boundaries:** Implements multi-tier structural evaluation constraints matching inputs against primitive types, array boundaries, and parameter parameters live.
