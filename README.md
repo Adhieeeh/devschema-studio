@@ -1,5 +1,5 @@
 #  DevSchema — Interactive JSON Structural Schema Validation Workbench (React)
-
+------------------------------------------------------------------------------------------------
 
 DevSchema is a responsive client-side schema testing and data validation laboratory built with React. It tracks schema constraints against dynamic data payload dictionaries, using active JavaScript lexical parsing try/catch compilation models to intercept syntactical anomalies and pipe error streams down onto isolated trace display grids.
 
